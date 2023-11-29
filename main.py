@@ -41,3 +41,4 @@ for i in range(3):
         bag[i][j] = res[i * 3 + j]
 for i in bag:
     print(i)
+print(f'\nИтоговые очки выживания: {current_point}')
